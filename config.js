@@ -1,12 +1,9 @@
 const CONFIG = {
     titleWeb: "Ngo Tien Dat",
     introTitle: 'Ngọc ơi',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Anh muốn hỏi em cái này`,
     btnIntro: '^^HiHi^^',
-    title: 'EM làm người yêu anh nhớ 🥰',
+    title: 'EM làm người yêu Anh nhớ 🥰',
     desc: ' ',
     btnYes: 'Em đồng ý <33',
     btnNo: 'Không nha :3',
